@@ -1,0 +1,10 @@
+------------%My vscode extentions%--------------
+1. Auto Close Tage => jun Han
+2. Auto Rename Tag => Jun Han
+3. Live Server => Ritwick Dey
+4. React Extention Pack => Rajbir Jawanda
+5. Path Autocomplete => Mihai Vilcu
+6. Tailwind CSS IntelliSence => Tailwind Labs
+7. vscode-icons => VSCode Icons Team
+8. Prettier-Code formatter => Prettier
+9. Auto Import-ES6,TS,JSX,TSX => Sergey Korenuk
