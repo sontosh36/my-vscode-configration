@@ -8,3 +8,5 @@
 7. vscode-icons => VSCode Icons Team
 8. Prettier-Code formatter => Prettier
 9. Auto Import-ES6,TS,JSX,TSX => Sergey Korenuk
+10. Thunder Client => Thunder Client
+11. Auto Closing Tag => Jun Han
